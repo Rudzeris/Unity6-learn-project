@@ -5019,7 +5019,7 @@ Tilemap:
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
-      m_AllTileFlags: 1073741824
+      m_AllTileFlags: 0
   m_AnimatedTiles:
   - first: {x: 0, y: 1, z: 0}
     second:
@@ -5065,7 +5065,7 @@ Tilemap:
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Origin: {x: 0, y: 0, z: 0}
   m_Size: {x: 1, y: 2, z: 1}
-  m_TileAnchor: {x: 0.5, y: 0.5, z: 0}
+  m_TileAnchor: {x: 0.08, y: 0.5, z: 0}
   m_TileOrientation: 0
   m_TileOrientationMatrix:
     e00: 1
@@ -5176,7 +5176,7 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.4546274, y: 1.3036475}
+  m_Offset: {x: 0.03, y: 1.3036475}
   m_Size: {x: 1.0071647, y: 1.5410957}
   m_Direction: 0
 --- !u!1 &1266882485
